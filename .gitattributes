@@ -1,3 +1,6 @@
-# Ignore only the HDL folder
+# Exclude Verilog HDL from GitHub language statistics
 hdl/** linguist-vendored
 spicelib/** linguist-vendored
+
+*.v linguist-vendored
+*.sv linguist-vendored
