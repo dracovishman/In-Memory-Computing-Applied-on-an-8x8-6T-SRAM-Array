@@ -1,4 +1,2 @@
-# Exclude Verilog HDL from GitHub language statistics
+# Ignore only the HDL folder
 hdl/** linguist-vendored
-*.v linguist-vendored
-*.sv linguist-vendored
