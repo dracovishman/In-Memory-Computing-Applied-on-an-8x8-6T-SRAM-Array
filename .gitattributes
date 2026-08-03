@@ -1,0 +1,4 @@
+# Exclude Verilog HDL from GitHub language statistics
+hdl/** linguist-vendored
+*.v linguist-vendored
+*.sv linguist-vendored
