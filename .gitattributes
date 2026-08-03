@@ -1,2 +1,3 @@
 # Ignore only the HDL folder
 hdl/** linguist-vendored
+spicelib/** linguist-vendored
