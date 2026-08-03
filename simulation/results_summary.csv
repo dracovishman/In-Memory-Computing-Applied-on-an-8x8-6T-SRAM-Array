@@ -1,0 +1,4 @@
+Technology_Node_nm,Supply_Voltage_V,Average_Power_mW,Read_Compute_Delay_ns,Power_Reduction_percent,Delay_Improvement_Factor
+180,1.8,35.69,10.69,0.00,1.00
+90,1.2,16.81,0.397,52.90,26.93
+45,1.0,0.185,0.510,99.48,20.96

@@ -1,0 +1,39 @@
+# EDA & Cadence Virtuoso Artifacts
+*.cdslck
+*.cdslck.*
+cds.log*
+cds.lib.bak
+pcell*.log
+lib.defs
+*.log
+*.lck
+*.dsn
+*.drc
+*.lvs
+*.pex
+
+# Spectre / SPICE Simulation Outputs
+*.run/
+spectre.run/
+spectre.out
+*.raw/
+*.dat
+*.tr0
+*.ac0
+*.sw0
+
+# Windows OS Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office & Temporary Files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# Scratch & IDE Directories
+scratch/
+.idea/
+.vscode/
