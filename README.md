@@ -108,9 +108,9 @@ vvp sram_imc_sim.vvp
 
 This project was conducted as part of the B.Tech. VLSI program at **VIT Chennai**:
 
+- **Vinayak S. Salunke** ([.salunkevinayak2005@gmail.com](mailto:salunkevinayak2005@gmail.com)) — 90nm design & simulation 
 - **Subham Prasad Gupta** ([.shubham01dec04@gmail.com](mailto:shubham01dec04@gmail.com)) — Initial research, 180nm design & simulation
 - **Jairus S. Solomon** ([.jairus.samraj2023@vitstudent.ac.in](mailto:jairus.samraj2023@vitstudent.ac.in)) — 45nm design & simulation
-- **Vinayak S. Salunke** ([.salunkevinayak2005@gmail.com](mailto:salunkevinayak2005@gmail.com)) — 90nm design & simulation
 
 ---
 
